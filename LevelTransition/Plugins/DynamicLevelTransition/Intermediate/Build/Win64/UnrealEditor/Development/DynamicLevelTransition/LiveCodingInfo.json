@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DynamicLevelTransition.cpp.obj": [
+			"DLTransitionFunctionLibrary.cpp.obj",
+			"DynamicLevelTransition.cpp.obj",
+			"DynamicTransitionComponent.cpp.obj"
+		],
+		"Module.DynamicLevelTransition.gen.cpp.obj": [
+			"DLTransitionFunctionLibrary.gen.cpp.obj",
+			"DynamicLevelTransition.init.gen.cpp.obj",
+			"DynamicTransitionComponent.gen.cpp.obj"
+		]
+	}
+}

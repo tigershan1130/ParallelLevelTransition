@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DynamicLevelTransition.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\project_x_n\Intermediate\Build\Win64\Project_XEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UEProject\project_x_n\Plugins\DynamicLevelTransition\Intermediate\Build\Win64\UnrealEditor\Development\DynamicLevelTransition\Module.DynamicLevelTransition.cpp.obj"
+"D:\UEProject\project_x_n\Plugins\DynamicLevelTransition\Intermediate\Build\Win64\UnrealEditor\Development\DynamicLevelTransition\DynamicTransitionComponent.cpp.obj"
+"D:\UEProject\project_x_n\Plugins\DynamicLevelTransition\Intermediate\Build\Win64\UnrealEditor\Development\DynamicLevelTransition\Module.DynamicLevelTransition.gen.cpp.obj"
+"D:\UEProject\project_x_n\Plugins\DynamicLevelTransition\Intermediate\Build\Win64\UnrealEditor\Development\DynamicLevelTransition\Default.rc2.res"
+/OUT:"D:\UEProject\project_x_n\Plugins\DynamicLevelTransition\Intermediate\Build\Win64\UnrealEditor\Development\DynamicLevelTransition\UnrealEditor-DynamicLevelTransition.lib"
+/INCLUDE:IMPLEMENT_MODULE_DynamicLevelTransition
